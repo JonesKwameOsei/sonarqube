@@ -1,5 +1,11 @@
 # sonarqube
-Ensuring the Quality Assurance of Application Building with SonarQube 
+Ensuring the Quality Assurance of Application Building with SonarQube <p>
+![image](https://github.com/JonesKwameOsei/sonarqube/assets/81886509/ba94b590-a68c-47ff-893c-6ae9a6b9306f)
+
+sec-group<p>
+![image](https://github.com/JonesKwameOsei/sonarqube/assets/81886509/19efe3df-b9ee-4e96-82f4-b656b2cb702b)
+
+
 ![image](https://github.com/JonesKwameOsei/sonarqube/assets/81886509/095144b6-a9a2-48a5-846c-c8d08d6c89e4)
 
 ![image](https://github.com/JonesKwameOsei/sonarqube/assets/81886509/4511f1b7-00ed-4d69-ad7f-133db94424c9)
